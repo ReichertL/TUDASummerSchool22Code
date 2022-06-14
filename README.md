@@ -7,3 +7,5 @@ If it is not working:
 - Download from [here](https://github.com/MarcoChilese/TUDASummerSchool22Code/raw/main/TUDA_FL_Tutorial_ToComplete.ipynb) (save as .ipynb file)
 - Upload the file to [Google Colab](https://research.google.com/colaboratory/)
 
+For any reference on using Google Colab, [check this](https://colab.research.google.com/?utm_source=scs-index#) and give a look to the Welcome notebook.
+
